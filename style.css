@@ -54,11 +54,7 @@ article {
 
 }
 .section{
-    width: 50%;
-    float: left;
-    padding-top: 15px;
-    height: 15px;
-    padding-right: 15px;
+    
 
 }
 
@@ -95,5 +91,13 @@ footer {
     height: 50px;
 }
 p {
-width: 200%;
+width: 550%;
+
+}
+h1.section{
+    width: 50%;
+    float: left;
+    
+    height: 22px;
+    padding-right: 15px;
 }
